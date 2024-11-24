@@ -142,8 +142,6 @@ git clone <repository-link>
 
 Add sample visualizations in your README using the following format after uploading image files:
 
-![Genre Distribution](path/to/genre_distribution.png)
-![Yearly Average IMDb Ratings](path/to/yearly_avg_ratings.png)
 
 
 
