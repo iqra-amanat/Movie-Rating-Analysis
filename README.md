@@ -6,7 +6,7 @@ This project analyzes the IMDb Top 1000 movies dataset to uncover insights about
 
 ---
 
-### Dataset Description
+### 📂Dataset Description
 
 The dataset contains information about the top 1000 movies on IMDb, including:
 
@@ -30,7 +30,7 @@ Gross: Total gross revenue of the movie.
 
 ---
 
-### Project Workflow
+### 📋 Project Workflow
 
 ### 1. Data Cleaning
 
@@ -76,7 +76,7 @@ Meta score vs IMDb ratings.
 
 ---
 
-### Key Insights
+### 🔑Key Insights
 
 1. Top-Rated Movies: Identified the top 10 movies with the highest IMDb ratings, along with their directors.
 
@@ -116,7 +116,7 @@ Seaborn: For advanced data visualization.
 
 ---
 
-### How to Run the Project
+### 🚀How to Run the Project
 
 1. Clone the repository:
 
@@ -125,7 +125,7 @@ git clone <repository-link>
 
 2. Install the required libraries:
 
-pip install pandas matplotlib seaborn
+### 🛠️pip install pandas matplotlib seaborn
 
 
 3. Download and place the dataset (imdb_top_1000.csv) in the working directory.
