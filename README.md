@@ -6,7 +6,7 @@ This project analyzes the IMDb Top 1000 movies dataset to uncover insights about
 
 ---
 
-Dataset Description
+### Dataset Description
 
 The dataset contains information about the top 1000 movies on IMDb, including:
 
@@ -30,16 +30,16 @@ Gross: Total gross revenue of the movie.
 
 ---
 
-Project Workflow
+### Project Workflow
 
-1. Data Cleaning
+### 1. Data Cleaning
 
 Converted columns such as Gross and Meta_score to numeric for accurate analysis.
 
 Handled missing values in key columns such as Gross to ensure the dataset was ready for analysis.
 
 
-2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 
 Identified top-rated movies based on IMDb ratings.
 
@@ -59,7 +59,7 @@ Analyzed total gross revenue by genre.
 Highlighted the top 10 grossing movies.
 
 
-3. Visualizations
+### 3. Visualizations
 
 Bar charts for genre distribution and total gross revenue by genre.
 
@@ -76,7 +76,7 @@ Meta score vs IMDb ratings.
 
 ---
 
-Key Insights
+### Key Insights
 
 1. Top-Rated Movies: Identified the top 10 movies with the highest IMDb ratings, along with their directors.
 
@@ -90,7 +90,7 @@ Key Insights
 4. Revenue Insights: Determined which genres generated the highest gross revenue.
 
 
-5. Correlation:
+### 5. Correlation:
 
 A positive correlation between the number of votes and IMDb ratings.
 
@@ -102,7 +102,7 @@ An observable relationship between meta scores and IMDb ratings.
 
 ---
 
-Technologies Used
+### Technologies Used
 
 Python: For data manipulation and analysis.
 
@@ -116,7 +116,7 @@ Seaborn: For advanced data visualization.
 
 ---
 
-How to Run the Project
+### How to Run the Project
 
 1. Clone the repository:
 
@@ -138,7 +138,7 @@ pip install pandas matplotlib seaborn
 
 ---
 
-Sample Visualizations
+### Sample Visualizations
 
 Add sample visualizations in your README using the following format after uploading image files:
 
@@ -146,12 +146,5 @@ Add sample visualizations in your README using the following format after upload
 ![Yearly Average IMDb Ratings](path/to/yearly_avg_ratings.png)
 
 
----
-
-Future Work
-
-Expand the analysis to include sentiment analysis on user reviews (if available).
-
-Use machine learning models to predict movie ratings or gross revenue.
 
 
